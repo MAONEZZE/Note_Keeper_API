@@ -1,0 +1,56 @@
+{
+  "categorias": [
+    {
+      "id": 6,
+      "titulo": "g"
+    },
+    {
+      "id": 7,
+      "titulo": "ç"
+    }
+  ],
+  "notas": [
+    {
+      "titulo": "r",
+      "conteudo": "r",
+      "tema": "dark",
+      "categoriaId": "6",
+      "id": 4
+    },
+    {
+      "titulo": "f",
+      "conteudo": "f",
+      "tema": "dark",
+      "categoriaId": "6",
+      "id": 5
+    },
+    {
+      "titulo": "j",
+      "conteudo": "j",
+      "tema": "dark",
+      "categoriaId": "6",
+      "id": 6
+    },
+    {
+      "titulo": "k",
+      "conteudo": "k",
+      "tema": "danger",
+      "categoriaId": "7",
+      "id": 7
+    },
+    {
+      "titulo": "j",
+      "conteudo": "j",
+      "tema": "danger",
+      "categoriaId": "7",
+      "id": 8
+    },
+    {
+      "titulo": "p",
+      "conteudo": "p",
+      "tema": "danger",
+      "categoriaId": "7",
+      "id": 9
+    }
+  ]
+}
